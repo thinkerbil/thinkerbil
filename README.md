@@ -1,11 +1,6 @@
 ## Hi there 👋
 
-Perkenalkan, nama saya **Nabila Najwa Husna**.<br>
-Saya seorang **Data Science Enthusiast** di [Dicoding](https://www.dicoding.com/).<br>
-Saya saat ini aktif mencari pelatihan Data Science guna meningkatkan skill Data Science saya.<br>
-Saya saat ini masih berkuliah di Universitas Diponegoro dengan program studi Matematika.<br>
-
-Jika Anda tertarik untuk berkenalan dengan saya, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nabila-najwa-husna/) saya.
+Hi! I'm **Nabila Najwa Husna**.<br> I'm a **Data Science Enthusiast** at [Dicoding](https://www.dicoding.com/).<br>
 
 ### Github Statistic
 <p align="left">
