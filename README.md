@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi! I'm **Nabila Najwa Husna**.<br> I'm a **Data Science Enthusiast** at [Dicoding](https://www.dicoding.com/).<br>
+Hi! I'm **Nabila Najwa Husna**.<br> I'm a Data Science Enthusiast.<br>
 
 ### Github Statistic
 <p align="left">
